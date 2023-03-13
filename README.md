@@ -1,7 +1,8 @@
 # meow, meyou 팀프로젝트
 
-🔗라이브
-weling.site
+🔗홈페이지
+
+[http://www.meowmeyou.com](http://meowmeyou.com/)
 
 ✈️ 소개
 위링(we-ling)은 여행을 기반으로한 정보 공유 및 커뮤니티 기능을 가지고 있습니다. We are traveling의 약자이며 여행자들을 대상으로 서비스를 제공합니다.

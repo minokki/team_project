@@ -12,5 +12,12 @@ meow meyou 는 meow 고양이 울음소리와 me you 너를보다(고양이가 �
 
 ![미유](https://user-images.githubusercontent.com/119803774/224801512-2ad4c3d8-9a13-4227-a2ef-952d6dd3aa95.JPG)
 
+<br>
+
+📌 기술
+HTML, CSS, JavaScript, Ajax, Jinja, jQuery
+pycharm, Robo3-T
+Flask, jinja2, aws, mongodb,pyJWT
+
 
 
